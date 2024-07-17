@@ -1,0 +1,122 @@
+[
+    {
+        "Category": "Shorts",
+        "Gender": "Girls"
+    },
+    {
+        "Category": "Brief",
+        "Gender": "Girls"
+    },
+    {
+        "Category": "Kurta",
+        "Gender": "Mens"
+    },
+    {
+        "Category": "Polo",
+        "Gender": "Mens"
+    },
+    {
+        "Category": "Tshirt",
+        "Gender": "Mens"
+    },
+    {
+        "Category": "Shirt",
+        "Gender": "Mens"
+    },
+    {
+        "Category": "Brief",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "Pant",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "Capri",
+        "Gender": "Infant"
+    },
+    {
+        "Category": "Tshirt",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "Kurta",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "Dress",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "legging",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "Shorts",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "pyjama",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "Track",
+        "Gender": "Infant"
+    },
+    {
+        "Category": "Trousers",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "Shorts",
+        "Gender": "Infant"
+    },
+    {
+        "Category": "Camisole",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "Tights",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "Top",
+        "Gender": "Womens"
+    },
+    {
+        "Category": "Pant",
+        "Gender": "Girls"
+    },
+    {
+        "Category": "Nightsuit",
+        "Gender": "Girls"
+    },
+    {
+        "Category": "Tshirt",
+        "Gender": "Girls"
+    },
+    {
+        "Category": "Dress",
+        "Gender": "Girls"
+    },
+    {
+        "Category": "Leggings",
+        "Gender": "Girls"
+    },
+    {
+        "Category": "Shrug",
+        "Gender": "Infant"
+    },
+    {
+        "Category": "Skirt",
+        "Gender": "Girls"
+    },
+    {
+        "Category": "Shorts",
+        "Gender": "Mens"
+    },
+    {
+        "Category": "Bra",
+        "Gender": "Womens"
+    }
+]

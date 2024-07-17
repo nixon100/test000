@@ -1,0 +1,102 @@
+    [
+      {
+        "Brand": "DressBerry",
+        "gender": "Women",
+        "Category": "Tops"
+      },
+      {
+        "Brand": "DressBerry",
+        "gender": "Women",
+        "Category": "Shirts"
+      },
+      {
+        "Brand": "DressBerry",
+        "gender": "Women",
+        "Category": "Dresses"
+      },
+      {
+        "Brand": "House of Pataudi",
+        "gender": "Men",
+        "Category": "Kurta Sets"
+      },
+      {
+        "Brand": "House of Pataudi",
+        "gender": "Women",
+        "Category": "Kurta Sets"
+      },
+      {
+        "Brand": "House of Pataudi",
+        "gender": "Men",
+        "Category": "Kurtas"
+      },
+      {
+        "Brand": "House of Pataudi",
+        "gender": "Women",
+        "Category": "Kurtas"
+      },
+      {
+        "Brand": "Ode by House of Pataudi",
+        "gender": "Men",
+        "Category": "Kurtas"
+      },
+      {
+        "Brand": "Ode by House of Pataudi",
+        "gender": "Men",
+        "Category": "Kurta Sets"
+      },
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Kurtas"
+      },
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Lehenga Choli"
+      },
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Kurta Sets"
+      },
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Skirts"
+      },
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Palazzos"
+      },
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Tops"
+      },   
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Dresses"
+      },
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Trousers"
+      },
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Co-Ords"
+      },
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Leggings"
+      },
+      {
+        "Brand": "Sangria",
+        "gender": "Women",
+        "Category": "Co-Ords"
+      }
+    ]

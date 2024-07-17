@@ -1,0 +1,166 @@
+[
+    {
+        "Sub-category": "night_suit",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "night_dress_nighty",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "pyjama",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "capri",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "trouser",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "t_shirt",
+        "Gender": "Men"
+    },
+    {
+        "Sub-category": "bra",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "legging",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "shrug",
+        "Gender": "Kids-Girls"
+    },
+    {
+        "Sub-category": "shrug",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "kids_dress",
+        "Gender": "Kids-Girls"
+    },
+    {
+        "Sub-category": "kids_short",
+        "Gender": "Baby-girls"
+    },
+    {
+        "Sub-category": "kurta",
+        "Gender": "Men"
+    },
+    {
+        "Sub-category": "dress",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "shirt",
+        "Gender": "Men"
+    },
+    {
+        "Sub-category": "tight",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "water_dispenser",
+        "Gender": "-"
+    },
+    {
+        "Sub-category": "short",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "kids_legging",
+        "Gender": "Kids-Girls"
+    },
+    {
+        "Sub-category": "kids_capri",
+        "Gender": "Baby-girls"
+    },
+    {
+        "Sub-category": "top",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "panty",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "skirt",
+        "Gender": "Baby-girls"
+    },
+    {
+        "Sub-category": "track_pant",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "camisole_slip",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "kaftan",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "kids_track_pant",
+        "Gender": "Kids-Girls"
+    },
+    {
+        "Sub-category": "pyjama",
+        "Gender": "Kids-Girls"
+    },
+    {
+        "Sub-category": "kids_short",
+        "Gender": "Kids-Girls"
+    },
+    {
+        "Sub-category": "t_shirt",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "kids_short",
+        "Gender": "boys"
+    },
+    {
+        "Sub-category": "shrug",
+        "Gender": "Baby-girls"
+    },
+    {
+        "Sub-category": "trouser",
+        "Gender": "Men"
+    },
+    {
+        "Sub-category": "kids_short",
+        "Gender": "Baby- boys"
+    },
+    {
+        "Sub-category": "kids_dress",
+        "Gender": "Baby-girls"
+    },
+    {
+        "Sub-category": "short",
+        "Gender": "Men"
+    },
+    {
+        "Sub-category": "kids_legging",
+        "Gender": "Baby-Girls"
+    },
+    {
+        "Sub-category": "skirt",
+        "Gender": "Kids-Girls"
+    },
+    {
+        "Sub-category": "kurta",
+        "Gender": "Women"
+    },
+    {
+        "Sub-category": "kids_short",
+        "Gender": "Baby-boys"
+    },
+    {
+        "Sub-category": "kids_capri",
+        "Gender": "Kids-Girls"
+    }
+]

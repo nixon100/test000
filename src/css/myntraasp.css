@@ -1,0 +1,109 @@
+/* body.Myntra-asp { */
+/* display: block; add this to make the body element a block-level element */
+/* position: relative */
+/* }  */
+
+/* body.Myntra-asp::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0.5;
+  width: 100%;
+  height: 100%;
+  background: url(../images/929.jpg);
+  background-position: center;
+  background-size: cover;
+} */
+
+/* .background-wrapper {
+    position: relative;
+    height: 100vh; 
+    width: 100%;
+  }
+
+  .background-wrapper::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0.5;
+    width: 100%;
+    height: 100%;
+    background: url(../images/929.jpg);
+    background-position: center;
+    background-size: cover;
+  } */
+/* img {
+    font-style: italic;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+} */
+img.background-image {
+  height: 100%;
+  left: 0;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -o-object-position: bottom;
+  object-position: bottom;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
+/* body.Myntra-asp {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(64, 25, 195, 1) 100%);
+} */
+
+/* //////////////table///////////////////////////// */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* Style the table headers */
+th {
+  background-color: #9697c8;
+  color: #fff;
+  padding: 15px;
+  /* border-bottom: 3px solid #56a6ff; */
+}
+
+/* Style the table body */
+td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Style the scrolling container */
+.scroll-container {
+  overflow-y: auto;
+  height: 450px;
+}
+
+/* Style the table body rows */
+tr:nth-child(even) {
+  background-color: #d5d5d5;
+}
+tbody {
+  color: black;
+  background-color: #adadad;
+}
+.scroll-container {
+  margin-top: 45px;
+  margin-left: 45px;
+  margin-right: 45px;
+}
+tbody tr {
+  background-color: white;
+}
+
+.App span {
+  margin-right: 5px; /* adjust the value to your liking */
+}
+span {
+  content: "\276E";
+}

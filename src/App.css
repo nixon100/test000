@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+img.background-imageF {
+  height: 100%;
+  left: 0;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -o-object-position: bottom;
+  object-position: top;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+  /* filter: brightness(0.5); adjust brightness to 50% */
+}
+
+img.background-imageA {
+  height: 100%;
+  left: 0;
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+
+}
+
+h1.flipkart {
+  color: #ff0030;
+}
+h1.amazon {
+  font-size: 3.5rem;
+  color: #ffddd3;
+}
+h1.myntra {
+  font-size: 3.5rem;
+  color: #4b79b5;
+}
+button.btn.btn-primary.text-left1 {
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #ffafcad4;
+  /* border-block-color: #1dd600f2; */
+  border-color: #ff0e2e;
+  --bs-btn-hover-color: black;
+  --bs-btn-hover-border-color: black;
+  border-bottom-width: thick;
+}
+button.btn.btn-primary.text-left2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #bf21ff;
+    /* border-block-color: #1dd600f2; */
+    border-color: #cddbff;
+    --bs-btn-hover-color: black;
+    --bs-btn-hover-border-color: black;
+    border-bottom-width: thick;
+}
+th.thF {
+  background-color: #fe9ebe;
+  color: #000000c9;
+  padding: 15px;
+}
+th.thA {
+  background-color: #ffa4b1;
+  color: #ffffff;
+  padding: 15px;
+}
+
