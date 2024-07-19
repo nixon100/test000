@@ -45,6 +45,28 @@ const Myntraforward = () => {
       document.body.classList.remove("Amazon-asp");
     };
   }, []);
+
+
+  useEffect(() => {
+    async function fetchDatax() {
+      try {
+        const response = await axios.get("http://localhost:8800/query");
+        console.log("Response:", response);
+      } catch (error) {
+        console.error("Error:", error);
+      }
+    }
+    fetchDatax();
+  }, []);
+
+
+
+
+
+
+
+
+
   useEffect(() => {
     async function fetchData0() {
       try {

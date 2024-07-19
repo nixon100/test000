@@ -12,6 +12,7 @@ import Amzmain from "./aspfinder/amazon/Amzmain";
 import Loginpage from "./pages/authentication/Loginpage";
 import Layout from "./pages/Layout";
 import "./css/appp.css";
+import AdminPage from "./pages/admin-page/AdminPage";
 
 function App() {
   return (
@@ -25,6 +26,8 @@ function App() {
           <Route path="/aspfindereasyship" element={<Amzmain />} />
           <Route path="/aspfinderprimeonly" element={<Amzmain />} />
           <Route path="/aspfinderfba" element={<Amzmain />} />
+          <Route path="/admin" element={<AdminPage />} />
+
           {/* 
           <Route path="/aspfinder" element={<Excel2 />} />
           
