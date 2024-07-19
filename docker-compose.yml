@@ -1,0 +1,17 @@
+version: "3"
+services:
+  asp_finder_ui:
+    build:
+      dockerfile: "Dockerfile"
+      context: "."
+    volumes:
+      - ./build:/app/build
+    # ports:
+    #   - "5000:5000"
+    restart: unless-stopped
+    networks:
+      - default
+networks:
+  default:
+    external:
+      name: asp_finder
